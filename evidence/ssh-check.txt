@@ -1,0 +1,9 @@
+Temporary repository-scoped read-only deploy key; host keys obtained from authenticated HTTPS api.github.com/meta.
+$ git ls-remote git@github.com:artem52qwe/my_repo-sila-oct29.git
+16e64b78eca524d0740096f7d17810a5f4cc70ca	HEAD
+4a53e69c755a821da0545508b1f05e52b7ba357b	refs/heads/codex/python-standards
+16e64b78eca524d0740096f7d17810a5f4cc70ca	refs/heads/main
+4a53e69c755a821da0545508b1f05e52b7ba357b	refs/pull/1/head
+40d68bc16975ef886b19dd5f5273f54220db554a	refs/pull/1/merge
+
+Exit: 0
